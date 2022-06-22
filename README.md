@@ -1,6 +1,6 @@
 - 🔭 I’m contributing to frontend and backend for building web applications on KONECT Group.
 - 🌱 I’m currently learning Node.js and German.
-- 📫 How to reach me: <a href="mailto:alireza.kvri@gmail.com">alireza.kvri@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:alireza.ksv@gmail.com">alireza.kvri@gmail.com</a>
 
 <!--
 - 👯 I’m looking to collaborate on German companies
