@@ -13,8 +13,7 @@
 
 ---
 
-[![Alireza Keshvari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirezakeshvari&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)](https://github.com/alirezakeshvari/alirezakeshvari)
-<!-- [![Alireza Keshvari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fakhamatia&theme=dark&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Alireza Keshvari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirezakeshvari&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=27)](https://github.com/alirezakeshvari/alirezakeshvari)
 [![Alireza Keshvari's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezakeshvari&langs_count=5&theme=tokyonight&exclude_repo=SocketCpp,alirezakeshvari.github.io,DeveloperSite)](https://github.com/alirezakeshvari/alirezakeshvari)
 
 ---
