@@ -1,4 +1,4 @@
-# Alireza Keshvari (alirezakeshvari)
+# Alireza Keshvari
 
 **🎯 Full‑Stack Web Developer | JavaScript & TypeScript Enthusiast**
 
@@ -11,10 +11,10 @@
 ## 🧰 Areas of Expertise
 
 - **Languages & Frameworks:**  
-  JavaScript · TypeScript · Node.js · NestJS · PHP · Laravel · React · HTML · CSS · MySQL · MongoDB · Git
+  JavaScript · TypeScript · Node.js · NestJS · React · HTML · CSS · MySQL · MongoDB · Git
 
 - **Libraries & Tools:**  
-  Express · Sequelize · Mapbox · Jest · JSON localization
+  Express · Mongoose · Kafka · Jest 
 
 ---
 
