@@ -1,35 +1,60 @@
-- 🔭 I’m contributing to frontend and backend for building web applications on KONECT Group.
-- 🌱 I’m currently learning TypeScript.
-- 📫 How to reach me: <a href="mailto:alireza.ksv@gmail.com">alireza.ksv@gmail.com</a>
+# Alireza Keshvari (alirezakeshvari)
 
-<!--
-- 👯 I’m looking to collaborate on German companies
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎯 Full‑Stack Web Developer | JavaScript & TypeScript Enthusiast**
 
+- 🔭 Currently building frontend and backend systems at **KONECT Group**
+- 🌱 Deepening expertise in **TypeScript**, Node.js, React, NestJS, Laravel, and more
+- 💬 Feel free to reach out via email: **alireza.ksv@gmail.com**
 
 ---
 
-[![Alireza Keshvari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirezakeshvari&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40)](https://github.com/alirezakeshvari/alirezakeshvari)
-[![Alireza Keshvari's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezakeshvari&langs_count=5&theme=tokyonight&exclude_repo=SocketCpp,alirezakeshvari.github.io,DeveloperSite)](https://github.com/alirezakeshvari/alirezakeshvari)
+## 🧰 Areas of Expertise
+
+- **Languages & Frameworks:**  
+  JavaScript · TypeScript · Node.js · NestJS · PHP · Laravel · React · HTML · CSS · MySQL · MongoDB · Git
+
+- **Libraries & Tools:**  
+  Express · Sequelize · Mapbox · Jest · JSON localization
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJs" alt="NestJs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="php" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
-</div>
+## 🚀 Featured Open‑Source Projects
+
+### **🥇 nastaliq-captcha**  
+A lightweight offline CAPTCHA generator using Persian Nastaliq script.  
+📌 **⭐ 26 stars**  
+- Node.js–based, easy Express integration  
+- Fully tested with support for randomized numeric CAPTCHA :contentReference[oaicite:1]{index=1}
+
+### **🌍 langjs**  
+A tiny multilingual support package for JS/TS apps—fully typed and JSON‑based.  
+📌 TypeScript‑first, easy API, under active development :contentReference[oaicite:6]{index=6}
+
+---
+
+## 📈 GitHub Stats
+
+- Active in frontend & backend development at KONECT  
+- Focused on clean code, localization, and engaging user experiences
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:** alireza.ksv@gmail.com  
+
+---
+
+## 💡 Fun Facts
+
+- Proud contributor to open-source localization tools  
+- Love clean UIs, local language support, and nostalgic game recreations  
+- Learning German and exploring opportunities in Germany 🇩🇪
+
+---
+
+**Let’s collaborate!** Whether it’s building scalable web apps, internationalization, or cool interactive tools, I’m always eager to connect.
+
+---
+
+*Last updated: July 2025*
