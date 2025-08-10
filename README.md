@@ -22,7 +22,7 @@
 
 ### **🥇 nastaliq-captcha**  
 A lightweight offline CAPTCHA generator using Persian Nastaliq script.  
-📌 **⭐ 26 stars**  
+📌 **⭐ 29 stars**  
 - Node.js–based, easy Express integration  
 - Fully tested with support for randomized numeric CAPTCHA :contentReference[oaicite:1]{index=1}
 
