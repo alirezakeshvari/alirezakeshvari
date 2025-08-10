@@ -3,7 +3,7 @@
 **🎯 Full‑Stack Web Developer | JavaScript & TypeScript Enthusiast**
 
 - 🔭 Currently building frontend and backend systems at **KONECT Group**
-- 🌱 Deepening expertise in **TypeScript**, Node.js, React, NestJS, Laravel, and more
+- 🌱 Deepening expertise in **TypeScript**, Node.js, NestJS, React and more
 - 💬 Feel free to reach out via email: **alireza.ksv@gmail.com**
 
 ---
